@@ -1,4 +1,7 @@
-##testandoo 
-#teste 2
+
 #Salvando modificações no git
-#Salvando alterações 2
+## O comando "git add .\nomeDoArquivo" adiciona as modificações em staged, sendo possivel fazer um commit
+## O comanddo "git commit -m "Nome da modificação" faz um commit
+## o comando "git log" permite verificar as alterações feitas
+## Uso do "git restore", desfaz as ultimas modificações
+## Uso do "git restore --Staged", desfaz as ultimas modificações em Staged
